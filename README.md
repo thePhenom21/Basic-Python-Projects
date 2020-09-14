@@ -3,6 +3,8 @@ This is a collection of mini python projects.
 
 -Hangman
 <br>
+-Youtube Video Downloader with GUI
+<br>
 -Calculator with GUI
 <br>
 -Chat Room
