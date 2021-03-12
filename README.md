@@ -12,4 +12,6 @@ This is a collection of mini python projects.
 -Password Generator
 <br>
 -E-mail Client
+<br>
+-Minigame
 ...
